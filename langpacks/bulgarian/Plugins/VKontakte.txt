@@ -5,6 +5,74 @@
 ;  Version: 0.1.2.8
 ;  Authors: Miranda NG Team
 ;============================================================
+[Create new chat]
+Създаване на нов чат
+[Send message to my wall]
+Публикуване на моята стена
+[Load news from VK]
+Зареждане на новините от ВК
+[Load history for all contacts from VK]
+Зареждане от сайта на историята на всички контакти
+[Wipe contacts missing in friend list]
+Изтриване на контаките, които не са в Приятели
+[Visit profile]
+Профил на сайта
+[Send message to user\'s wall]
+Съобщение на стената
+[Delete from friend list]
+Изтриване от списъка с приятели
+[Ban user]
+Блокиране на потребителя
+[Report abuse]
+Докладване на нередност
+[Reload messages from vk.com...]
+Зареждане на историята от сайта...
+[for last week]
+за последната седмица
+[for last 30 days]
+за последните 30 дни
+[for last 90 days]
+за последните 90 дни
+[for all time]
+от самото начало
+[automatically]
+автоматично
+[for last 1 day]
+за последния 1 ден
+[for last 3 days]
+за последните 3 дена
+[on read]
+при прочитане
+[on receive]
+при получаване
+[on reply]
+при отговор
+[on typing]
+при въвеждане на текст
+[E-mail or phone number:]
+Имейл или телефонен номер:
+[Open VKontakte site]
+Отваряне на страницата ВКонтакте
+[Login settings]
+Настройки за вписване
+[Local settings]
+Местни настройки
+[Contact list group:]
+Група в списъка с контакти:
+[Language for names and titles:]
+Език за имената и наименованията:
+[Server-side delivery confirmation]
+Потвърждаване на доставката от страна на сървъра
+[Use local time for received messages]
+Местно време за получените съобщения
+[Automatically wipe local contacts missing in your friend list]
+Автоматично изтриване на контактите, които не са в Приятели
+[Mark message as read:]
+Отбелязване на съобщ. като прочетени:
+[Sync history on protocol online:]
+При вписване се синхронизира историята:
+[Account language]
+Език на акаунта
 [Status message] 
 Текст за състояние
 [off]
