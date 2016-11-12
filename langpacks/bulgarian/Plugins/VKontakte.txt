@@ -2,10 +2,10 @@
 ;============================================================
 ;  File: VKontakte.dll
 ;  Plugin: VKontakte protocol
-;  Version: 0.1.2.7
+;  Version: 0.1.2.8
 ;  Authors: Miranda NG Team
 ;============================================================
-[Status message]
+[Status message] 
 Текст за състояние
 [off]
 изкл.
